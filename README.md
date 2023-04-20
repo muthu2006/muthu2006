@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 My name is Muthu !!
 
-<!--
-**muthu2006/muthu2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Freelance Test Engineer & Test Team Lead**
 
-Here are some ideas to get you started:
+<!-- *I'm currently learning QA Automation with Java and Selenium* -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌏 I'm based in India
+- 🤝 I’m open to collaborating on freelance QA projects
+- 📫 You can contact me at muthu.333@gmail.com
+
+[![My Skills](https://skillicons.dev/icons?i=java,selenium,python,eclipse,vscode,postman)](https://skillicons.dev)
+
+<!-- [![MK's GitHub stats](https://github-readme-stats.vercel.app/api?username=muthu2006)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- - 🧠 I’m currently learning Selenium -->
+
+<!-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vmkrishnan/) -->
